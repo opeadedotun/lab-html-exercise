@@ -325,7 +325,7 @@ nav  a {
   
 
 _Useful information_:
--  _form label color_: rgba(0,0,0,.05)
+-  _form label color_: #000000
 
 -  _form input color_: rgba(0,0,0,.05)
 
@@ -361,7 +361,7 @@ _Useful information_:
 
 - suggested height for this section: 600px
 
-- background color: rgba(232,217,217,.3)
+- background color: rgba(232, 217, 217, 0.3)
 
 - "See plans" button background color: #FB3B49
 
